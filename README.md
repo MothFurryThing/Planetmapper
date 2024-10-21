@@ -1,5 +1,6 @@
 This is relatively complicated to use, so i will attempt to describe this as best as possible.
 If need be, dm me on discord (glowy_boi) and ask for help, this, as stated, is complicated, at least for someone with no blender experience.
+Oh yeah, if you modify this, link it to me, i wanna see your work cause it's probably really cool and probably better than this monstrosity as a base.
 
 Set 1
 

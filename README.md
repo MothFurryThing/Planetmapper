@@ -1,5 +1,5 @@
 This is relatively complicated to use, so i will attempt to describe this as best as possible.
-If need be, dm me on discord and ask for help, this, as stated, is complicated, at least for someone with no blender experience.
+If need be, dm me on discord (glowy_boi) and ask for help, this, as stated, is complicated, at least for someone with no blender experience.
 
 Set 1
 
